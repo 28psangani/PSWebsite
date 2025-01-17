@@ -1,6 +1,6 @@
 {
   "name": "personal_website",
-  "homepage": "https://psangani.dev",
+  "homepage": "https://pranav-sangani.github.io/PSWebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,13 +16,12 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
-"scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
 }
   },
   "eslintConfig": {
