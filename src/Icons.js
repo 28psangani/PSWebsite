@@ -16,7 +16,7 @@ function Icons({onClickPaint, onClickSolitaire, onClickMinesweeper, onClickPuzzl
             </div>
             <div className={'icon'}>
                 <span>&nbsp;&nbsp;</span>
-                <a href={'https://github.com/28psangani'}
+                <a href={'https://github.com/pranav-sangani'}
                    target={'_blank'}
                    rel="noreferrer">
                     <img src={ie_icon} alt="Github"/></a>
